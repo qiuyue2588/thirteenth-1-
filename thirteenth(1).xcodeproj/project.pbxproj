@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3FFC200D21C7836A00B4831B /* Work13.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Work13.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3FFC200D21C7836A00B4831B /* thirteenth(1).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "thirteenth(1).app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFC201021C7836A00B4831B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FFC201221C7836A00B4831B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		3FFC201521C7836A00B4831B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		3FFC200421C7836A00B4831B = {
 			isa = PBXGroup;
 			children = (
-				3FFC200F21C7836A00B4831B /* Work13 */,
+				3FFC200F21C7836A00B4831B /* thirteenth(1) */,
 				3FFC200E21C7836A00B4831B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		3FFC200E21C7836A00B4831B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3FFC200D21C7836A00B4831B /* Work13.app */,
+				3FFC200D21C7836A00B4831B /* thirteenth(1).app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3FFC200F21C7836A00B4831B /* Work13 */ = {
+		3FFC200F21C7836A00B4831B /* thirteenth(1) */ = {
 			isa = PBXGroup;
 			children = (
 				3FFC201021C7836A00B4831B /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				3FFC201921C7836B00B4831B /* LaunchScreen.storyboard */,
 				3FFC201C21C7836B00B4831B /* Info.plist */,
 			);
-			path = Work13;
+			path = "thirteenth(1)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3FFC200C21C7836A00B4831B /* Work13 */ = {
+		3FFC200C21C7836A00B4831B /* thirteenth(1) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3FFC201F21C7836B00B4831B /* Build configuration list for PBXNativeTarget "Work13" */;
+			buildConfigurationList = 3FFC201F21C7836B00B4831B /* Build configuration list for PBXNativeTarget "thirteenth(1)" */;
 			buildPhases = (
 				3FFC200921C7836A00B4831B /* Sources */,
 				3FFC200A21C7836A00B4831B /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = Work13;
+			name = "thirteenth(1)";
 			productName = Work13;
-			productReference = 3FFC200D21C7836A00B4831B /* Work13.app */;
+			productReference = 3FFC200D21C7836A00B4831B /* thirteenth(1).app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -92,14 +92,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = yls;
+				ORGANIZATIONNAME = qiuyue;
 				TargetAttributes = {
 					3FFC200C21C7836A00B4831B = {
 						CreatedOnToolsVersion = 10.0;
 					};
 				};
 			};
-			buildConfigurationList = 3FFC200821C7836A00B4831B /* Build configuration list for PBXProject "Work13" */;
+			buildConfigurationList = 3FFC200821C7836A00B4831B /* Build configuration list for PBXProject "thirteenth(1)" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3FFC200C21C7836A00B4831B /* Work13 */,
+				3FFC200C21C7836A00B4831B /* thirteenth(1) */,
 			);
 		};
 /* End PBXProject section */
@@ -283,12 +283,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Work13/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/thirteenth(1)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-016110349.Work13";
+				PRODUCT_BUNDLE_IDENTIFIER = "-016110330.thirteenth-1-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -300,12 +300,12 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				INFOPLIST_FILE = Work13/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/thirteenth(1)/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "-016110349.Work13";
+				PRODUCT_BUNDLE_IDENTIFIER = "-016110330.thirteenth-1-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,7 +315,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3FFC200821C7836A00B4831B /* Build configuration list for PBXProject "Work13" */ = {
+		3FFC200821C7836A00B4831B /* Build configuration list for PBXProject "thirteenth(1)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFC201D21C7836B00B4831B /* Debug */,
@@ -324,7 +324,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3FFC201F21C7836B00B4831B /* Build configuration list for PBXNativeTarget "Work13" */ = {
+		3FFC201F21C7836B00B4831B /* Build configuration list for PBXNativeTarget "thirteenth(1)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3FFC202021C7836B00B4831B /* Debug */,
